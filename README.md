@@ -35,4 +35,4 @@ AI at OpenAI is a Python script integrating OpenAI's GPT with a database for dyn
 Contributions are welcome! Please follow [guidelines](CONTRIBUTING.md).
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache 2.0 License](LICENSE).
